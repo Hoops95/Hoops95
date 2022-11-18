@@ -4,9 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Alaa</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
-<div align="center">
-  <img src="https://octodex.github.com/images/saritocat.png/">
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Alaa</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
