@@ -3,7 +3,7 @@
 **Hoops95/Hoops95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Alaa</h1>
-<h3 align="center">Passionate In Data Analysis & Machine Learining From Egypt</h3>
+<h3 align="center">Passionate In Data Analysis & Machine Learning From Egypt</h3>
 
 <div align="center">
   <img src="https://octodex.github.com/images/saritocat.png" height="300" />
