@@ -22,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/hoops95" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt=hoops95" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alaairaqi95a8a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BubF9O%2BKwQGKDtr9yO5v%2FIQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://tinyurl.com/m4p9beyn](https://www.linkedin.com/in/alaairaqi95a8a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BubF9O%2BKwQGKDtr9yO5v%2FIQ%3D%3D)" height="30" width="40" /></a>
 
 </p>
 
