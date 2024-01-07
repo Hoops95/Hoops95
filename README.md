@@ -1,8 +1,8 @@
 
 
 **Hoops95/Hoops95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmedabbas75&theme=" alt="Ahmedabbas75" /></a> </p>
-</p>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Alaa</h1>
 <h3 align="center">Passionate In Data Analysis & Machine Learning From Egypt</h3>
 
