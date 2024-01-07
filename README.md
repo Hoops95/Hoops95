@@ -1,16 +1,14 @@
 
 
 **Hoops95/Hoops95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Alaa</h1>
 <h3 align="center">Passionate In Data Analysis & Machine Learning From Egypt</h3>
 
-<div align="center">
-  <img src="https://octodex.github.com/images/saritocat.png" height="300" />
-</div>
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hoops95&theme=" alt="Hoops95" /></a> </p>
+</p>
 
 - 🔭 I’m currently working on **Recommendation Engine for deciding the next level of questions to recommend to a user**
 
